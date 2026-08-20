@@ -6,9 +6,9 @@ Project: design, build, and present. See the [full programme](../programme.md) f
 
 ## Seminars
 
-- [From one-off activity to teaching sequence (PDF)](seminars/Seminar_3_From_one_off_activity_to_teaching_sequence.pdf)
-- [Sprint briefing — classroom activity design sprint (PDF)](seminars/s3b_Sprint_briefing_Classroom_activity_design_sprint.pdf)
+- [From one-off activity to teaching sequence (PDF)](https://spikol.github.io/playful_facilitator/day3/seminars/Seminar_3_From_one_off_activity_to_teaching_sequence.pdf)
+- [Sprint briefing — classroom activity design sprint (PDF)](https://spikol.github.io/playful_facilitator/day3/seminars/s3b_Sprint_briefing_Classroom_activity_design_sprint.pdf)
 
 ## Activities
 
-- [Design canvas — A5 (PDF)](activities/a5_Design_canvas.pdf)
+- [Design canvas — A5 (PDF)](https://spikol.github.io/playful_facilitator/day3/activities/a5_Design_canvas.pdf)

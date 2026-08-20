@@ -6,9 +6,9 @@ Generative AI: LLMs, prompting, sensor + language. See the [full programme](../p
 
 ## Seminar
 
-- [Generative AI: how it works and why it fails (PDF)](seminars/Seminar_2_Generative_AI_how_it_works_and_why_it_fails.pdf)
+- [Generative AI: how it works and why it fails (PDF)](https://spikol.github.io/playful_facilitator/day2/seminars/Seminar_2_Generative_AI_how_it_works_and_why_it_fails.pdf)
 
 ## Activities
 
-- [LLMs in plain language — the storytelling game (PDF)](activities/llm_story.pdf)
-- [The art of the prompt — A3 (PDF)](activities/a3_prompt_art.pdf)
+- [LLMs in plain language — the storytelling game (PDF)](https://spikol.github.io/playful_facilitator/day2/activities/llm_story.pdf)
+- [The art of the prompt — A3 (PDF)](https://spikol.github.io/playful_facilitator/day2/activities/a3_prompt_art.pdf)
