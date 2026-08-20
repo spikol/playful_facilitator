@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Playful Programming and AI — Facilitator Site</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0">
+  <meta name="description" content="Facilitator site for the Playful Programming and Artificial Intelligence workshop">
+  <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify@4/lib/themes/vue.css">
+  <style>
+    :root { --theme-color: #4a5a9e; }
+    body { font-family: -apple-system, "Helvetica Neue", Arial, sans-serif; }
+    .app-nav { margin: 0; }
+    /* Simple top navigation only — Docsify still auto-builds a per-page
+       heading sidebar even with loadSidebar:false, so hide it outright. */
+    .sidebar, .sidebar-toggle { display: none !important; }
+    .content { left: 0 !important; max-width: 860px; margin: 0 auto; }
+  </style>
+</head>
+<body>
+  <div id="app"></div>
+  <script>
+    window.$docsify = {
+      name: 'Playful Programming & AI — Facilitator Site',
+      repo: 'https://github.com/spikol/playful_facilitator',
+      loadNavbar: true,
+      loadSidebar: false,
+      subMaxLevel: 0,
+      auto2top: true,
+      relativePath: false,
+      // Non-markdown links (PDFs) shouldn't be hijacked by Docsify's router.
+      noCompileLinks: [ '.*\\.pdf$' ],
+      formatUpdated: '{MM}/{DD} {HH}:{mm}',
+    };
+  </script>
+  <script src="//cdn.jsdelivr.net/npm/docsify@4"></script>
+  <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/search.min.js"></script>
+</body>
+</html>
