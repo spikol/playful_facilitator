@@ -2,7 +2,7 @@
 
 **Wednesday 26 or Thursday 27 August · 9 to 14**
 
-Project: design, build, and present. See the [full programme](../programme.md) for the detailed agenda.
+Project: design, build, and present. See the [full programme](/programme.md) for the detailed agenda.
 
 ## Seminars
 

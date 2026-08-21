@@ -2,7 +2,7 @@
 
 **Tuesday 25 August · 9 to 15**
 
-Generative AI: LLMs, prompting, sensor + language. See the [full programme](../programme.md) for the detailed agenda.
+Generative AI: LLMs, prompting, sensor + language. See the [full programme](/programme.md) for the detailed agenda.
 
 ## Seminar
 
