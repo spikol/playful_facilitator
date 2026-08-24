@@ -3,6 +3,7 @@
 Notable changes to the facilitator site, most recent first.
 
 ## 2026-08-24
+- Added a Course Overview & Intended Learning Outcomes deck, linked from the README and navbar
 - Added the Kickoff deck — "Seeing This Workshop Through the AI Fluency Framework" — to Day 1 seminars
 
 ## 2026-08-21
