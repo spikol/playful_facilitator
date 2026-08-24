@@ -6,7 +6,7 @@ Physical AI: sensing, classification, unplugged. See the [full programme](/progr
 
 ## Seminar
 
-- [Kickoff — Seeing This Workshop Through the AI Fluency Framework](https://spikol.github.io/playful_facilitator/day1/seminars/Kickoff_AI_Fluency_Framework.md) *(source deck; PDF export pending)*
+- [Kickoff — Seeing This Workshop Through the AI Fluency Framework (PDF)](https://spikol.github.io/playful_facilitator/day1/seminars/Kickoff_AI_Fluency_Framework.pdf)
 - [Didactic transposition and AI literacy (PDF)](https://spikol.github.io/playful_facilitator/day1/seminars/Seminar_1_Didactic_transposition_and_AI_literacy.pdf)
 
 ## Activities

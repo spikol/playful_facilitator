@@ -3,7 +3,7 @@
 Notable changes to the facilitator site, most recent first.
 
 ## 2026-08-24
-- Added the Kickoff deck — "Seeing This Workshop Through the AI Fluency Framework" — to Day 1 seminars (source markdown; PDF export pending)
+- Added the Kickoff deck — "Seeing This Workshop Through the AI Fluency Framework" — to Day 1 seminars
 
 ## 2026-08-21
 - Fixed broken "full programme" links on every Day page
