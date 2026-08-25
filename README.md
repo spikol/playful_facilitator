@@ -18,7 +18,7 @@ No prior AI background is assumed. The aim is not to produce finished materials 
 ## Find your way around
 
 - **[Programme](programme.md)** — the full day-by-day agenda, activities, and seminars
-- **[Course Overview & Intended Learning Outcomes (PDF)](Course_Overview_and_Learning_Outcomes.pdf)** — a one-slide-deck summary of the workshop
+- **[Course Overview & Intended Learning Outcomes (PDF)](https://spikol.github.io/playful_facilitator/Course_Overview_and_Learning_Outcomes.pdf)** — a one-slide-deck summary of the workshop
 - **[Day 1](day1/)** through **[Day 5](day5/)** — materials and slides for each day, in the top navigation
 
 ## Activities
